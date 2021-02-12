@@ -57,6 +57,6 @@ def on_jarkeva(syote, alaraja, ylaraja):
     return luku
 
 
-    # testataan toiminta
-    tulos = on_jarkeva('123', 1, 500)
-    print(tulos)
+# testataan toiminta
+#tulos = on_jarkeva('sata', 1, 500)
+#print(tulos)
